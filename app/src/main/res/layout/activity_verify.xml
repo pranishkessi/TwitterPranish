@@ -25,7 +25,7 @@
             android:id="@+id/textView3"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="We have sent you a code"
+            android:text="Did you receive you code"
             android:textColor="#000"
             android:textSize="28dp"
             android:textStyle="bold"
@@ -36,7 +36,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="30dp"
             android:textSize="20dp"
-            android:text="Wait for verify"/>
+            android:text="Verifying"/>
 
         <TextView
             android:id="@+id/code"
@@ -44,7 +44,7 @@
             android:layout_height="wrap_content"
             android:layout_marginTop="10dp"
             android:textSize="20dp"
-            android:text="102312"/>
+            android:text="568673"/>
     </LinearLayout>
 
     <View

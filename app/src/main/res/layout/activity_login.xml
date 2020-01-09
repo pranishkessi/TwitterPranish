@@ -75,7 +75,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="Phone number, email address or username"
+            android:text="Username or phone number or Email"
             android:textSize="20dp"/>
 
         <EditText
@@ -106,7 +106,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:text="Forgotten your password?"
+            android:text="Forgot your password?"
             android:textSize="20dp"
             android:gravity="center"/>
 

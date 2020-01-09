@@ -42,7 +42,7 @@
             android:id="@+id/textView4"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Create your account"
+            android:text="CREATE YOUR ACCOUNT "
             android:textColor="#000"
             android:textSize="28dp"
             android:textStyle="bold"/>
@@ -60,7 +60,7 @@
                 android:id="@+id/username_first"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:hint="Your Name" />
+                android:hint="Your Name Here" />
 
             <TextView
                 android:id="@+id/username_count"
@@ -75,7 +75,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="20dp"
-                android:hint="Email"
+                android:hint="Your Email Here"
                 android:inputType="textEmailAddress" />
 
             <TextView

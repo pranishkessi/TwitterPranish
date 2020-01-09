@@ -81,7 +81,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="15dp"
-                android:text="By signing up, you agree to the Terms os Service and Privacy Policy,incuding Cookies Use. Other will be able to find you by email or phone number when provided.Privacy Options "
+                android:text="By signing in, you agree to the Terms os Service and Privacy Policy,including Cookies Use. Other will be able to find you by email or phone number when provided.Privacy Options "
                 android:textSize="15dp"/>
 
             <Button
