@@ -11,9 +11,9 @@ import android.widget.TextView;
 import androidx.annotation.NonNull;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.samyam.twitter.R;
-import com.samyam.twitter.model.Tweets;
-import com.samyam.twitter.strictMode.StrictModeClass;
+import com.si.twitterpranish.R;
+import com.si.twitterpranish.model.Tweets;
+import com.si.twitterpranish.strictMode.StrictModeClass;
 
 import java.io.IOException;
 import java.io.InputStream;

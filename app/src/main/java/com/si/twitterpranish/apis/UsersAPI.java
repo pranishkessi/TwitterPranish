@@ -1,10 +1,10 @@
 package com.si.twitterpranish.apis;
 
-import com.samyam.twitter.model.Check;
-import com.samyam.twitter.model.ImageModel;
-import com.samyam.twitter.model.SignUp;
-import com.samyam.twitter.model.Tweets;
-import com.samyam.twitter.model.User;
+import com.si.twitterpranish.model.Check;
+import com.si.twitterpranish.model.ImageModel;
+import com.si.twitterpranish.model.SignUp;
+import com.si.twitterpranish.model.Tweets;
+import com.si.twitterpranish.model.User;
 
 import java.util.List;
 

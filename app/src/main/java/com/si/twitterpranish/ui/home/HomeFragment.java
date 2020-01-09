@@ -11,12 +11,12 @@ import androidx.fragment.app.Fragment;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
 
-import com.samyam.twitter.ImageActivity;
-import com.samyam.twitter.LoginActivity;
-import com.samyam.twitter.R;
-import com.samyam.twitter.adapter.TweetAdapter;
-import com.samyam.twitter.apis.APIClass;
-import com.samyam.twitter.model.Tweets;
+import com.si.twitterpranish.ImageActivity;
+import com.si.twitterpranish.LoginActivity;
+import com.si.twitterpranish.R;
+import com.si.twitterpranish.adapter.TweetAdapter;
+import com.si.twitterpranish.apis.APIClass;
+import com.si.twitterpranish.model.Tweets;
 
 import java.util.List;
 

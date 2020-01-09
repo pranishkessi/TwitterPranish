@@ -11,9 +11,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.samyam.twitter.apis.LoginData;
-import com.samyam.twitter.model.User;
-import com.samyam.twitter.strictMode.StrictModeClass;
+import com.si.twitterpranish.apis.LoginData;
+import com.si.twitterpranish.model.User;
+import com.si.twitterpranish.strictMode.StrictModeClass;
 
 public class LoginActivity extends AppCompatActivity {
 

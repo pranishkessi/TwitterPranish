@@ -15,11 +15,11 @@ import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.loader.content.CursorLoader;
 
-import com.samyam.twitter.apis.APIClass;
-import com.samyam.twitter.model.ImageModel;
-import com.samyam.twitter.model.SignUp;
-import com.samyam.twitter.model.User;
-import com.samyam.twitter.strictMode.StrictModeClass;
+import com.si.twitterpranish.apis.APIClass;
+import com.si.twitterpranish.model.ImageModel;
+import com.si.twitterpranish.model.SignUp;
+import com.si.twitterpranish.model.User;
+import com.si.twitterpranish.strictMode.StrictModeClass;
 
 import java.io.File;
 import java.io.IOException;

@@ -15,9 +15,9 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.samyam.twitter.apis.APIClass;
-import com.samyam.twitter.model.Check;
-import com.samyam.twitter.model.User;
+import com.si.twitterpranish.apis.APIClass;
+import com.si.twitterpranish.model.Check;
+import com.si.twitterpranish.model.User;
 
 import retrofit2.Call;
 import retrofit2.Callback;

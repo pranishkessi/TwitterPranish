@@ -1,6 +1,6 @@
 package com.si.twitterpranish.apis;
 
-import com.samyam.twitter.model.SignUp;
+import com.si.twitterpranish.model.SignUp;
 
 import java.io.IOException;
 
